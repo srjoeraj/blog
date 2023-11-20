@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+ <channel>
+  <title>Rohan Rajguru</title>
+  <atom:link href="https://srjoeraj.github.io/site/rss.xml" rel="self" type="application/rss+xml" />
+  <link>https://srjoeraj.github.io/site/rss.xml</link>
+  <description></description>
+  <lastBuildDate>Sun, 19 Nov 2023 00:00:00 GMT</lastBuildDate>
+  <language>en-IN</language>
+
+  <image>
+   <url>https://srjoeraj.github.io/site//None</url>
+   <title>Rohan Rajguru</title>
+   <link>https://srjoeraj.github.io/site/rss.xml</link>
+   <width>32</width>
+   <height>32</height>
+  </image>
+
+  
+  <item>
+   <title>Route Precedence is like satisfying your food cravings! 🍲🌮🍝</title>
+   <link>https://srjoeraj.github.io/site//route_precedence_food.html</link>
+   <pubDate>Fri, 17 Nov 2023 00:00:00 GMT</pubDate>
+   <guid isPermaLink="false">https://srjoeraj.github.io/site//route_precedence_food.html</guid>
+			<description><![CDATA[ - <p>Imagine you're a hungry kid (End-user) in a network, and your parents (routers) need to decide what food (route) to order for you. Here's how Route Precedence works:</p>
+
+<p><strong>Longest prefix 📏</strong>:
+The route with the longest IP prefix (subnet mask) for the incoming traffic gets priority. It's like ordering your favourite Karhai Chicken because it matches your preferences.</p>
+
+<p><strong>Administrative Distance 🚦</strong>:
+Routers look at Administrative Distance to determine trustworthiness when routes have the same prefix. Static routes are the most trusted (your parents know your favourite), followed by BGP, EIGRP, OSPF, IS-IS, and RIP. The most trusted route enters the routing table.</p>
+
+<p><strong>Metric 📊</strong>:
+The last factor is the protocol's metric. Suppose identical routes are from the same protocol. Each protocol has its way of calculating metrics, but lower is better. The route with the lowest metric is added to the routing table, just like choosing the tastiest dish when all else is equal.</p>
+
+<p><strong>Load Balancing 🔄</strong>:
+When all factors are equal, and you have two routes that are identical in every way, both routes get to join the routing table, and traffic is load-balanced between them. It's like having two equally tempting desserts on your plate - why settle for one when you can enjoy both?</p>
+
+<p><a href="https://lnkd.in/ghe7cFMV">Explore more in Jeremy McDowell's dynamic routing videos 📹</a>.<br>
+<a href="https://lnkd.in/g5_xsaCf">Dive into Neil Anderson's explanation of Administrative Distance 📹</a>.</p>
+
+<p>Happy routing and bon appétit! 🌐🍽️</p>
+
+<p>#carrers #networking #learning #routing #routingprotocols #networkadministration #studying #tech #growth  #experience #cisco #preperation #engineering #ccna #techhumor #humor</p>
+ ]]></description>
+  </item>
+  
+  <item>
+   <title>Six tips on clearing the 200-301 exam and getting CCNA certified! 🎇</title>
+   <link>https://srjoeraj.github.io/site//six_tips_ccna.html</link>
+   <pubDate>Sun, 12 Nov 2023 00:00:00 GMT</pubDate>
+   <guid isPermaLink="false">https://srjoeraj.github.io/site//six_tips_ccna.html</guid>
+			<description><![CDATA[My tips on clearing the CCNA. - <p>I cleared my CCNA over a week ago and am grateful for the congratulatory messages!🙏🏼 A lot of people requested me to share some tips based on my experience, so here we go:</p>
+
+<p>🌟 <strong>Pick the right course for you</strong>: Pick the right course for you: Many great paid and free courses cover the CCNA. It is crucial to pick a course that best suits your learning style. You should go on YouTube, where all significant courses have a selection of free videos available to check which teaching style works you best! I recommend Neil Anderson and Jeremy McDowell's courses on Udemy and YouTube. I also recommend using several resources while you study.</p>
+
+<p>📝 <strong>Take good notes</strong>: This has helped me the most. The CCNA has a vast syllabus covering many topics, from Subnetting to MPLS VPNs. I recommend taking digital notes using Notion, as it allows you to incorporate pictures smoothly in your notes and is easily searchable!</p>
+
+<p>🔧 <strong>Packet Tracer is your best friend</strong>: Practice, practice, practice! In my opinion, it is the only way to master most of the exam topics. Do as many labs as possible. Once you finish a lab, revisit it in the 10-15 days. It will help your understanding of the technology performed and will help you get familiar with Cisco IOS.</p>
+
+<p>🃏 <strong>Flash Cards are great</strong>: When I started studying, I did not expect Flash Cards to play a significant role in my learning, but it's the most fun way to retain essential information. Neil's and Jeremy's courses include flashcards using the software ANKI, and I suggest you use them.</p>
+
+<p>📚 <strong>Structure the content as it suits you</strong>: for example, while revising, I went through the topics in the following sequence: Networking Basics =&gt; Routing =&gt; VLANS &amp; Switching =&gt; Network Architectures =&gt; ACLs =&gt; NAT =&gt; Device Security =&gt; IPv6 =&gt; Cloud and VPN =&gt; Network Automation =&gt; Wireless Networking and QoS. I merged and bifurcated topics depending on what I found challenging. This made sense to me, but it might be different for you. You need to find what works for you and stick with it.</p>
+
+<p>🔄 <strong>Stay consistent</strong>: Consistency is key in tackling the challenges of the CCNA exam. Establish a study routine and stick to it. The journey may be tough, but staying consistent with your efforts will pay off.</p>
+
+<p>At last, All the best to everyone preparing or thinking to prepare for the CCNA. You've got this!</p>
+
+<p>#carrers #networking #experiences #studying #tech #growth #passed #experience #cisco #preperation #engineering #ccna </p>
+ ]]></description>
+  </item>
+  
+  <item>
+   <title>I'm now CCNA certified! 🥳</title>
+   <link>https://srjoeraj.github.io/site//passed_ccna.html</link>
+   <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+   <guid isPermaLink="false">https://srjoeraj.github.io/site//passed_ccna.html</guid>
+			<description><![CDATA[Cleared the CCNA 300-201 exam, and I'm now CCNA certified! - <p>I am thrilled to announce that I have successfully cleared the CCNA 200-301 Exam, and I am now CCNA certified! 🥳 I would like to take this opportunity to thank <a href="https://www.udemy.com/course/ccna-complete/">Neil Anderson</a> and <a href="https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ">Jeremy McDowell</a> for their online courses. Anyone looking to get their CCNA or dive into the world of Network Engineering should really check them out!</p>
+ ]]></description>
+  </item>
+  
+ </channel>
+            
