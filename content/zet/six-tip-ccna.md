@@ -2,6 +2,10 @@
 title : "Six tips on clearing the 200-301 exam and getting CCNA certified! 🎇"
 subtitle : "My tips on clearing the CCNA."
 date : 2023-11-12
+tags:
+- CCNA
+- Guide 
+- Networking
 ---
 
 I cleared my CCNA over a week ago and am grateful for the congratulatory messages!🙏🏼 A lot of people requested me to share some tips based on my experience, so here we go:

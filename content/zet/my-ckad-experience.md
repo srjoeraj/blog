@@ -2,6 +2,11 @@
 title : "My CKAD Exam Experience"
 subtitle : "Cleared the Certified Kubernetes Application Developer certification"
 date : 2024-07-12
+tags:
+- Certification
+- CKAD
+- kubernetes
+- study
 ---
 
 # I have cleared the CKAD! 😎

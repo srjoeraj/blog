@@ -18,15 +18,15 @@ mainSections = ["zet", "posts"]
 disableImageOptimization = false
 disableTextInHeader = false
 
-# defaultBackgroundImage = "img/background.webp" # used as default for background images 
-defaultFeaturedImage = "img/thumb.webp" # used as default for featured images in all articles
+#defaultBackgroundImage = "img/background.webp" # used as default for background images 
+#defaultFeaturedImage = "img/thumb.webp" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -39,10 +39,10 @@ defaultFeaturedImage = "img/thumb.webp" # used as default for featured images in
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "img/background.webp" # used in: hero, and card
   showRecent = true
-  showRecentItems = 12
+  showRecentItems = 10
   showMoreLink = false
   showMoreLinkDest = "/zet"
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 
@@ -71,8 +71,8 @@ defaultFeaturedImage = "img/thumb.webp" # used as default for featured images in
   showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
-  showTaxonomies = false
-  showAuthorsBadges = false
+  showTaxonomies = true
+  showAuthorsBadges = false 
   showWordCount = true
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
   showZenMode = false
