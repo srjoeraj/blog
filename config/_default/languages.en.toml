@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Rohan Rajguru"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+ [author]
+   name = "Rohan Rajguru"
+   image = "img/logo-big.png"
+   headline = "Exploring Kubernetes and Cloud Native!"
+   bio = "Linux and Cloud enthusiast in the pursuit to be the best engineer I can be!"
+   links = [
+     { email = "mailto:rohan.rajguru@outlook.com" },
+     { linkedin = "https://www.linkedin.com/in/rrajguru" },
+     { github = "https://github.com/srjoeraj" },
+     { twitter  = "https://twitter.com/RohanSRajguru" },
+   ]
