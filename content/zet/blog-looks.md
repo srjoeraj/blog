@@ -19,7 +19,7 @@ If you're wondering how it looks the way it does for your own blog or website: I
 
 Now, let's begin with the logo first. I wanted to have a minimalist logo that was both thoughtful and resonant. I was inspired to do so by watching the following video by [Takuya Matsuyama](https://www.craftz.dog/).
 
-![How I created this logo for @devaslife by Takuya Matsuyama](https://www.youtube.com/watch?v=NK90OpIjxII&t=598s)
+{{< youtube NK90OpIjxII >}}
 
 I'm a Sanatani, and a trishool (trident) is one of the most influential symbols in our history. Additionally, Kubernetes borrows its naming from the oceans and the navy. I thought these elements would match perfectly and decided to have a trident at the centre of my logo.
 
@@ -29,7 +29,7 @@ Now, I'm not a designer. I'm bad at drawing, and most importantly, I do not have
 
 So, I simply went to Canva and looked at the designs available for free. After nearly 30 minutes of working on the logo, these were the final results I came up with.
 
-![Logo Mockups](https://www.canva.com/design/DAGLRSc6JiI/Y7vM2fEfbmsbgE1uWkxxCQ/view)
+![Logo Mockups](img/logo-mockups.png)
 
 
 The background colour is saffron, not orange. It is the topmost colour in the Indian tricolour.

@@ -32,12 +32,3 @@
   weight = 30
 
 
-[[main]]
-  name = "Substack"
-  pageRef = "https://google.com"
-  weight = 50
-
-[[main]]
-  name = "CV"
-  pageRef = "CV"
-  weight = 60
