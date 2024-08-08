@@ -17,6 +17,14 @@ I cleared the CKA a few days back, and here are some tips from my experiences th
 
 - **Edit `~/.tmux.conf`:** Enable vi copy mode in Tmux. This becomes very helpful for copying stuff from the terminal/man pages to the output.
 
+
+```bash
+echo "set -o vi" >> ~/.bashrc
+echo "force_color_promp=yes" >> ~/.bashrc
+
+echo "setw -g mode-keys vi" >> ~/.tmux.conf
+```
+
 > The *vim-edit* (activated by pressing v, in vi mode) can be very helpful while copy pasting long command that need to be edited. ex: While performing a kubeadm node upgrade.
 
 
