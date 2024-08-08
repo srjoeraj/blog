@@ -1,7 +1,7 @@
 ---
-title : "CKA Exam Experience"
-subtitle : "Cleared the Certified Kubernetes Administrator certification"
-date : 2024-08-07
+title : "Tips on clearing the CKA"
+subtitle : "My advice on clearing the Certified Kubernetes Administrator Exam."
+date : 2024-08-08
 tags:
 - Certification
 - CKA
